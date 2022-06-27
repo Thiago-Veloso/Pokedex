@@ -1,0 +1,16 @@
+{
+  "pokemons": [
+    {
+      "id": 1,
+      "name": "Burbasaur",
+      "description": "There is a plant seed on its back right from the day this Pokémon is born. The seed slowly grows larger.",
+      "height": "0.7",
+      "weight": "6.9",
+      "category": "Seed",
+      "ability": "Overgrow",
+      "attack": "3",
+      "defence": "3",
+      "speed": "3"
+    }
+  ]
+}
